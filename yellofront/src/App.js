@@ -12,7 +12,7 @@ function App() {
           <Route path='/qr' element={<QR />} />
         </Routes>
       </BrowserRouter>
-      <Main />
+{/*<Main />*/}
     </div>
   )
 }
